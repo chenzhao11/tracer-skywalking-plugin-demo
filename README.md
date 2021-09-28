@@ -135,7 +135,7 @@ com.alipay.sofa.tracer.skywalking.max-buffer-size=10000
 
 按照前提条件中使用Docker启动相关服务后，正常启动后的主界面如下：
 
-![image-20210928153359809](../../MD%E6%96%87%E6%A1%A3/Photo/README.assets/image-20210928153359809.png)
+![image-20210928153359809](https://gitee.com/whutzhaochen/markdown/raw/master/img/20210928161716.png)
 
 
 
@@ -143,11 +143,11 @@ com.alipay.sofa.tracer.skywalking.max-buffer-size=10000
 
 1、配置 Server
 
-![image-20210928153439761](../../MD%E6%96%87%E6%A1%A3/Photo/README.assets/image-20210928153439761.png)
+![image-20210928153439761](https://gitee.com/whutzhaochen/markdown/raw/master/img/20210928161726.png)
 
 2、配置 Deployment
 
-![image-20210928153449935](../../MD%E6%96%87%E6%A1%A3/Photo/README.assets/image-20210928153449935.png)
+![image-20210928153449935](https://gitee.com/whutzhaochen/markdown/raw/master/img/20210928161729.png)
 
 3、启动tomcat
 
@@ -160,4 +160,4 @@ com.alipay.sofa.tracer.skywalking.max-buffer-size=10000
 
 2、Jaeger展示
 
-![image-20210928153539773](../../MD%E6%96%87%E6%A1%A3/Photo/README.assets/image-20210928153539773.png)
+![image-20210928153539773](https://gitee.com/whutzhaochen/markdown/raw/master/img/20210928161732.png)
